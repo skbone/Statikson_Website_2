@@ -56,4 +56,6 @@
     "@types/node": "^20.12.12",
     "@vitejs/plugin-react-swc": "^3.5.0",
     "vite": "5.2.12",
-    "typ
+    "typescript": "^5.4.5"
+  }
+}
