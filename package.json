@@ -60,6 +60,6 @@
     "postcss": "latest",
     "tailwindcss": "latest",
     "typescript": "latest",
-    "vite": "6.3.5"
+    "vite": "^5.2.0"
   }
 }
